@@ -12,3 +12,5 @@ print(6 // 4)
 print(14 % 4)
 print(12 % 4.5)
 print(-4 + 4)
+var=1
+print(var)
